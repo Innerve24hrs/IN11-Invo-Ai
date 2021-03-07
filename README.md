@@ -1,14 +1,14 @@
 # Invo-AI: An automatic E-Invoicing using Image Processing
 We propose an extraction system that use knowledge of the types of the target fields to generate extraction candidates, and a neural network architecture that learns a dense representation of each candidate based on neighbouring words in the document. These learned representations are not only useful in solving the extraction task for unseen document templates from two different domains, but are also interpretable in classic document processing.
 
-### Our Project: [Source Code](https://github.com/Luckygyana/Invo-AI) | [Youtube]() | <br>
+### Our Project: 
 
 ### AUTHOR CONTRIBUTIONS
 > Subject: &nbsp; &emsp; &emsp; &nbsp;**Invo-AI** <br>
 > Topic:&emsp; &emsp; &nbsp; &nbsp; &nbsp; &nbsp;**Electronic Invoicing using Image Processing** <br>
 > Assignment: &emsp;  **Source Code (Final Presentation)** <br>
 > Authors:&ensp; &ensp; &emsp; &nbsp; **GYANENDRA DAS** <br>
-> Date: &ensp; &ensp; &emsp; &emsp; &nbsp; July 8,2020  <br>
+> Date: &ensp; &ensp; &emsp; &emsp; &nbsp; March 6,2021  <br>
 <br>
 
 ## Developing an Automatic Invoice Extraction system using Python <br>
